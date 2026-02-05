@@ -8,15 +8,7 @@ This portfolio highlights my frontend, backend, and full-stack work with smooth 
 
 ## 🌐 Live Demo
 👉 **Portfolio Website:**  
-🔗 https://your-live-link-here.vercel.app
-
----
-
-## 📸 Preview
-
-![Portfolio Preview](./img/preview.png)
-
-> 💡 Replace `preview.png` with your main screenshot image name.
+🔗https://bootstrap-portfolio-ebon.vercel.app/
 
 ---
 
