@@ -133,6 +133,10 @@ body {
 
 }
 
+.rutik-img:hover {
+    box-shadow: rgba(8, 193, 218, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
 
 
 .about-img {
@@ -525,5 +529,6 @@ body {
     border-radius: 15px;
     transition: all 1s;
 }
+
 
 
